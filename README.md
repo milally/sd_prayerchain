@@ -1,2 +1,2 @@
 # sd_prayerchain
-Clone of Soarchrist Prayerchain WP plugin created by Scott Dillon
+Slightly modified clone of Soarchrist Prayerchain WP plugin created by Scott Dillon
