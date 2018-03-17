@@ -1,0 +1,23 @@
+/* CSS Document */
+#pc_form_container { border:1px solid #ebebeb; padding:2px 15px; background:url("http://www.crossroadsde.com/wp-content/themes/risen/styles/dark/images/texture-solid.png") 0 0; width:600px; }
+
+.hidden { display:none; }
+
+.clear { clear:both; }
+
+.pc_form_box { clear:both; }
+.pc_form_box input { display:block; margin:-2px 0px 5px 0px; }
+.pc_form_box input[type='text'] { background-color:#FFF; width:200px; }
+.pc_form_box label { font-size:11px; }
+.pc_form_box input[type='radio'] { display:inline; margin: -2px 3px 1px 19px; }
+.pc_form_box textarea { display:block; width:90%; background-color:#FFF; height:100px; }
+.pc_form_box small { font-size:11px; }
+.pc_form_box strong { font-weight:bold;}
+
+.pc_subbox { display:none; }
+.pc_subbox h2 { font-size:70px; text-align:center; }
+.pc_subbox p { font-size:20px; display:block; width:80%; margin:10px auto 30px; color:#537d9e;  }
+
+div.updated.pcmessage { margin:30px 4px; padding:10px; font-size:14px; width:400px; }
+
+#pc_form_error { font-weight:bold; font-size:18px; color:#39556b; margin:8px; border-top:3px solid #ff9908; border-bottom:3px solid #ff9908; display:none; }
